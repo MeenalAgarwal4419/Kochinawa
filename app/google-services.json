@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048364792966",
+    "firebase_url": "https://kochinawa-d05ff.firebaseio.com",
+    "project_id": "kochinawa-d05ff",
+    "storage_bucket": "kochinawa-d05ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048364792966:android:0b851a5ec21ce53b602507",
+        "android_client_info": {
+          "package_name": "meenal.agarwal.kochinawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048364792966-8nco7u47do6a7j0h4dj155ueiq7fm71o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "meenal.agarwal.kochinawa",
+            "certificate_hash": "376f5e831f6b53ac5ed6536a683790ce1792472f"
+          }
+        },
+        {
+          "client_id": "1048364792966-ca11l13383ksskv4mtd1o266lp7cdrpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CdVeVapAbvtalsCtfjJEsyzIo_36x3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048364792966-ca11l13383ksskv4mtd1o266lp7cdrpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

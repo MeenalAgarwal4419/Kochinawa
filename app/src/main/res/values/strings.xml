@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kochinawa</string>
+    <string name="your_new_group">Your new Group</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="starred_messages">Starred Messages</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_main_contacts">YOUR MAIN CONTACTS</string>
+    <string name="useless_groups">USELESS GROUPS</string>
+    <string name="you_r_best_chats">YOU\'R BEST CHATS</string>
+    <string name="xxx_gmail_com">XXX@gmail.com</string>
+    <string name="xxxxxxxx">XXXXXXXX</string>
+
+    <string name="need_new_account">Need new Account?</string>
+    <string name="click_tologin">click to login</string>
+    <string name="contact_number_login">Contact number login</string>
+    <string name="or_login_using_phone_number">Or login using phone number</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="cute">cute</string>
+    <string name="click_for_new_account">Click for new Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="logout">Logout</string>
+
+
+</resources>
